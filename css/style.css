@@ -1,0 +1,40 @@
+body{
+    background-color: #fff6f1;
+    font-family: Helvetica,verdana, arial, helvetica, sans-serif;
+
+}
+
+#contenido{
+    width: auto;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    color: crimson;
+}
+
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    color: #1d1d1d;
+    cursor: pointer;
+
+}
+#textoPr
+{
+    width: 600px;
+    height: 300px;
+    background-color: #1d1d1d;
+    color: #fff6f1;
+    margin: auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px;
+ }
+a{
+    color: crimson;
+    font-weight:bold;
+}
